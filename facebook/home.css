@@ -1,0 +1,31 @@
+
+@font-face {font-family: "Klavika Bold"; src: url("//db.onlinewebfonts.com/t/aa12a710af434ef5e04f88fc37a4c7cc.eot"); src: url("//db.onlinewebfonts.com/t/aa12a710af434ef5e04f88fc37a4c7cc.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/aa12a710af434ef5e04f88fc37a4c7cc.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/aa12a710af434ef5e04f88fc37a4c7cc.woff") format("woff"), url("//db.onlinewebfonts.com/t/aa12a710af434ef5e04f88fc37a4c7cc.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/aa12a710af434ef5e04f88fc37a4c7cc.svg#Klavika Bold") format("svg"); }
+
+.row{margin-top: 150px;
+}
+
+form{margin-top: 40px;
+}
+
+h1{font-size: 70px;
+    color:rgb(13, 78, 163);
+}
+input{
+    margin-top: 10px;
+}
+button{
+    margin-top: 10px;
+}
+.tagline{font-size: larger;
+    padding-right: 20px;
+    padding-left: 05px;
+}
+body{background-color: whitesmoke;
+}
+form{background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+a{display: block;
+    padding-top: 5px;
+}
